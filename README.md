@@ -1,2 +1,4 @@
 # Hello-Word
-My first repository
+My first repository on Github.
+
+I love :coffee: :pizza:, and :dancer:.
